@@ -1,0 +1,20 @@
+header,footer{
+    height: 70px;
+    background-color: #7431FA;
+    border: 1px dashed red;
+}
+footer{
+    height: 270px;
+    background-color: #0e0e0e;
+}
+main{
+    min-height: 1000px;
+    border: 1px dashed blue;
+    
+}
+.b_cont{
+    border: 1px dashed orangered;
+}
+.tbdr{
+    border: 1px dashed #000;
+}
